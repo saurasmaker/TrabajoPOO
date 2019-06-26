@@ -1,0 +1,56 @@
+*Curso1
+-Semestre1.1
+Algebra Lineal;6.0;BA
+Fundamentos de Computadores;4.5;BA
+Laboratorio de Informatica;6.0;BA
+Fundamentos de Programacion I;4.5;BA
+Calculo;6.0;BA
+Teologia/Humanidades;3.0;OP
+-Semestre1.2
+Estructuras de Computadores;6.0;BA
+Matematica Discreta;4.5;BA
+Fisica;6.0;BA
+Fundamentos de Programacion II;4.5;BA
+Fundamentos de Administracion y Organizacion de Empresas;6.0;BA
+Doctrina Social/Etica;3.0;OP
+*Curso2
+-Semestre2.1
+Algoritmia;4.5;OB
+Bases de Datos;6.0;OB
+Estadistica;6.0;BA
+Programacion orientada a Objetos;4.5;OB
+Interfaz Persona Maquina;4.5;OB
+Aspectos Legales y Eticos de la Informatica;4.5;OB
+-Semestre2.2
+Sistemas Operativos;6.0;OB
+Programacion Visual Avanzada;6.0;OB
+Redes de Computadores;6.0;OB
+Sistemas de Gestion de la Informacion;6.0;OB
+Ingenieria del Software;6.0;OB
+*Curso3
+-Semestre3.1
+Programacion Paralela;4.5;OB
+Desarrollo de Aplicaciones Distribuidas I;4.5;OB
+Ingenieria de Requisitos;4.5;OB
+Tecnologias Avanzadas de Comunicacion;6.0;OB
+Soluciones Informaticas para la Empresa;6.0;OB
+Arquitectura de Computadores;4.5;OB
+-Semestre3.2
+Desarrollo de Aplicaciones Distribuidas II;6.0;OB
+Gestion de Proyectos Informaticos;4.5;OB
+Modelado del Software;6.0;OB
+Sistemas Inteligentes;4.5;OB
+Seguiridad de la Informacion;4.5;OB
+Programacion Web;4.5;OB
+*Curso4
+-Semestre4.1
+Administracion de Bases de Datos;4.5;OB
+Calidad del Software;4.5;OB
+Aplicaciones para Dispositivos Moviles;4.5;OB
+Administracion de Sistemas;6.0;OB
+Ingenieria del Conocimiento;6.0;OB
+-Semestre4.2
+Proyecto Integral de Ingenieria del Software;6.0;OB
+Auditoria y Peritaje;4.5;OB
+Proyecto Integral de Tecnologias de la Informacion;6.0;OB
++Trabajo Fin de Grado;18.0;TFG
